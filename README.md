@@ -25,11 +25,11 @@ Most of my product code is private. Here is what it is.
 
 ## Stack
 
-**Code** TypeScript · JavaScript · Python · PHP · React · React Native (Expo) · Next.js · Node.js · Tailwind
-**Data** Postgres · Supabase · MySQL · MongoDB · Drizzle ORM
-**AI** OpenAI and Claude APIs · Claude Code · agent workflows · prompt and context engineering
-**Automation** Make.com · n8n · Zapier · Google Apps Script · Notion · Airtable
-**Infra & services** Vercel · Stripe · Twilio · HubSpot · REST APIs and webhooks
+- **Code** — TypeScript · JavaScript · Python · PHP · React · React Native (Expo) · Next.js · Node.js · Tailwind
+- **Data** — Postgres · Supabase · MySQL · MongoDB · Drizzle ORM
+- **AI** — OpenAI and Claude APIs · Claude Code · agent workflows · prompt and context engineering
+- **Automation** — Make.com · n8n · Zapier · Google Apps Script · Notion · Airtable
+- **Infra and services** — Vercel · Stripe · Twilio · HubSpot · REST APIs and webhooks
 
 ## Elsewhere
 
